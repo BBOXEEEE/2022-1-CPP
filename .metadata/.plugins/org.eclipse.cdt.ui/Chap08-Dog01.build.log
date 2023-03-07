@@ -1,0 +1,15 @@
+13:58:33 **** Build of configuration Debug for project Chap08-Dog01 ****
+make all 
+Building file: ../src/Chap08-Dog.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap08-Dog.d" -MT"src/Chap08-Dog.o" -o "src/Chap08-Dog.o" "../src/Chap08-Dog.cpp"
+Finished building: ../src/Chap08-Dog.cpp
+ 
+Building target: Chap08-Dog01
+Invoking: MacOS X C++ Linker
+g++  -o "Chap08-Dog01"  ./src/Chap08-Dog.o   
+Finished building target: Chap08-Dog01
+ 
+
+13:58:34 Build Finished. 0 errors, 0 warnings. (took 1s.16ms)
+

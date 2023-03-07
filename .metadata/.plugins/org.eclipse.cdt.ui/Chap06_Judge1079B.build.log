@@ -1,0 +1,10 @@
+17:18:37 **** Build of configuration Debug for project Chap06_Judge1079B ****
+make all 
+Building target: Chap06_Judge1079B
+Invoking: MacOS X C++ Linker
+g++  -o "Chap06_Judge1079B"  ./src/Chap06_Judge1079B.o   
+Finished building target: Chap06_Judge1079B
+ 
+
+17:18:38 Build Finished. 0 errors, 0 warnings. (took 365ms)
+

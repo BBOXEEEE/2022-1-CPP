@@ -1,0 +1,15 @@
+13:58:21 **** Build of configuration Debug for project Chap05-LinkedList ****
+make all 
+Building file: ../src/Chap05-LinkedList.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap05-LinkedList.d" -MT"src/Chap05-LinkedList.o" -o "src/Chap05-LinkedList.o" "../src/Chap05-LinkedList.cpp"
+Finished building: ../src/Chap05-LinkedList.cpp
+ 
+Building target: Chap05-LinkedList
+Invoking: MacOS X C++ Linker
+g++  -o "Chap05-LinkedList"  ./src/Chap05-LinkedList.o   
+Finished building target: Chap05-LinkedList
+ 
+
+13:58:22 Build Finished. 0 errors, 0 warnings. (took 980ms)
+

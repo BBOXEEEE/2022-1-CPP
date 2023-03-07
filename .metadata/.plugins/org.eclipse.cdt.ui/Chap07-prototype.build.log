@@ -1,0 +1,15 @@
+13:58:29 **** Build of configuration Debug for project Chap07-prototype ****
+make all 
+Building file: ../src/Chap07-Prototype.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap07-Prototype.d" -MT"src/Chap07-Prototype.o" -o "src/Chap07-Prototype.o" "../src/Chap07-Prototype.cpp"
+Finished building: ../src/Chap07-Prototype.cpp
+ 
+Building target: Chap07-prototype
+Invoking: MacOS X C++ Linker
+g++  -o "Chap07-prototype"  ./src/Chap07-Prototype.o   
+Finished building target: Chap07-prototype
+ 
+
+13:58:30 Build Finished. 0 errors, 0 warnings. (took 968ms)
+

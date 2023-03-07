@@ -1,0 +1,15 @@
+17:18:45 **** Build of configuration Debug for project Practice04_OperatorOverloading ****
+make all 
+Building file: ../src/Practice04_OperatorOverloading.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice04_OperatorOverloading.d" -MT"src/Practice04_OperatorOverloading.o" -o "src/Practice04_OperatorOverloading.o" "../src/Practice04_OperatorOverloading.cpp"
+Finished building: ../src/Practice04_OperatorOverloading.cpp
+ 
+Building target: Practice04_OperatorOverloading
+Invoking: MacOS X C++ Linker
+g++  -o "Practice04_OperatorOverloading"  ./src/Practice04_OperatorOverloading.o   
+Finished building target: Practice04_OperatorOverloading
+ 
+
+17:18:46 Build Finished. 0 errors, 0 warnings. (took 1s.109ms)
+

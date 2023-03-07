@@ -1,0 +1,15 @@
+13:57:58 **** Build of configuration Debug for project Chap01-greeting ****
+make all 
+Building file: ../src/Greeting.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Greeting.d" -MT"src/Greeting.o" -o "src/Greeting.o" "../src/Greeting.cpp"
+Finished building: ../src/Greeting.cpp
+ 
+Building target: Chap01-greeting
+Invoking: MacOS X C++ Linker
+g++  -o "Chap01-greeting"  ./src/Greeting.o   
+Finished building target: Chap01-greeting
+ 
+
+13:57:59 Build Finished. 0 errors, 0 warnings. (took 1s.195ms)
+

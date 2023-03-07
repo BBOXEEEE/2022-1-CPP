@@ -1,0 +1,15 @@
+13:58:24 **** Build of configuration Debug for project Chap05-pointer ****
+make all 
+Building file: ../src/Chap05-pointer.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap05-pointer.d" -MT"src/Chap05-pointer.o" -o "src/Chap05-pointer.o" "../src/Chap05-pointer.cpp"
+Finished building: ../src/Chap05-pointer.cpp
+ 
+Building target: Chap05-pointer
+Invoking: MacOS X C++ Linker
+g++  -o "Chap05-pointer"  ./src/Chap05-pointer.o   
+Finished building target: Chap05-pointer
+ 
+
+13:58:25 Build Finished. 0 errors, 0 warnings. (took 1s.24ms)
+

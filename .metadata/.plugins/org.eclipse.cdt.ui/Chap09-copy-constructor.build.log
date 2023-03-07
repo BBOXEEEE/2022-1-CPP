@@ -1,0 +1,15 @@
+13:58:48 **** Build of configuration Debug for project Chap09-copy-constructor ****
+make all 
+Building file: ../src/Chap09-copy-constructor.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap09-copy-constructor.d" -MT"src/Chap09-copy-constructor.o" -o "src/Chap09-copy-constructor.o" "../src/Chap09-copy-constructor.cpp"
+Finished building: ../src/Chap09-copy-constructor.cpp
+ 
+Building target: Chap09-copy-constructor
+Invoking: MacOS X C++ Linker
+g++  -o "Chap09-copy-constructor"  ./src/Chap09-copy-constructor.o   
+Finished building target: Chap09-copy-constructor
+ 
+
+13:58:49 Build Finished. 0 errors, 0 warnings. (took 1s.23ms)
+

@@ -1,0 +1,28 @@
+13:58:11 **** Build of configuration Debug for project Chap03-typecast ****
+make all 
+Building file: ../src/Chap03-typecast.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap03-typecast.d" -MT"src/Chap03-typecast.o" -o "src/Chap03-typecast.o" "../src/Chap03-typecast.cpp"
+../src/Chap03-typecast.cpp:25:6: warning: implicit conversion from 'double' to 'int' changes value from 1.5 to 1 [-Wliteral-conversion]
+        a = 1.5;        // warning 자동타입 변환. 축소변환
+          ~ ^~~
+../src/Chap03-typecast.cpp:26:6: warning: implicit conversion from 'double' to 'int' changes value from 2.5 to 2 [-Wliteral-conversion]
+        foo(2.5);       // warning 자동타입 변환. 축소변환
+        ~~~ ^~~
+../src/Chap03-typecast.cpp:24:6: warning: variable 'a' set but not used [-Wunused-but-set-variable]
+        int a{0};
+            ^
+../src/Chap03-typecast.cpp:31:6: warning: variable 'n' set but not used [-Wunused-but-set-variable]
+        int n{0};
+            ^
+4 warnings generated.
+Finished building: ../src/Chap03-typecast.cpp
+ 
+Building target: Chap03-typecast
+Invoking: MacOS X C++ Linker
+g++  -o "Chap03-typecast"  ./src/Chap03-typecast.o   
+Finished building target: Chap03-typecast
+ 
+
+13:58:12 Build Finished. 0 errors, 4 warnings. (took 1s.22ms)
+

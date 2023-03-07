@@ -1,0 +1,15 @@
+13:58:25 **** Build of configuration Debug for project Chap07-auto ****
+make all 
+Building file: ../src/Chap07-auto.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap07-auto.d" -MT"src/Chap07-auto.o" -o "src/Chap07-auto.o" "../src/Chap07-auto.cpp"
+Finished building: ../src/Chap07-auto.cpp
+ 
+Building target: Chap07-auto
+Invoking: MacOS X C++ Linker
+g++  -o "Chap07-auto"  ./src/Chap07-auto.o   
+Finished building target: Chap07-auto
+ 
+
+13:58:26 Build Finished. 0 errors, 0 warnings. (took 971ms)
+

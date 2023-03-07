@@ -1,0 +1,15 @@
+13:58:22 **** Build of configuration Debug for project Chap05-new-delete ****
+make all 
+Building file: ../src/Chap05-new-delete.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap05-new-delete.d" -MT"src/Chap05-new-delete.o" -o "src/Chap05-new-delete.o" "../src/Chap05-new-delete.cpp"
+Finished building: ../src/Chap05-new-delete.cpp
+ 
+Building target: Chap05-new-delete
+Invoking: MacOS X C++ Linker
+g++  -o "Chap05-new-delete"  ./src/Chap05-new-delete.o   
+Finished building target: Chap05-new-delete
+ 
+
+13:58:23 Build Finished. 0 errors, 0 warnings. (took 1s.21ms)
+

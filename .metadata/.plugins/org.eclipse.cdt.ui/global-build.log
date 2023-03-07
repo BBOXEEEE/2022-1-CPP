@@ -1,0 +1,214 @@
+Building target: Chap01_Palindrome
+Invoking: MacOS X C++ Linker
+g++  -o "Chap01_Palindrome"  ./src/01_PalindromeNumber.o   
+Finished building target: Chap01_Palindrome
+ 
+17:18:33 **** Build of configuration Debug for project Chap02_IntegerReplacement ****
+make all 
+Building target: Chap02_IntegerReplacement
+Invoking: MacOS X C++ Linker
+g++  -o "Chap02_IntegerReplacement"  ./src/02_IntegerReplacement.o   
+Finished building target: Chap02_IntegerReplacement
+ 
+17:18:33 **** Build of configuration Debug for project Chap03_ArrangingCoins ****
+make all 
+Building target: Chap03_ArrangingCoins
+Invoking: MacOS X C++ Linker
+g++  -o "Chap03_ArrangingCoins"  ./src/03_ArrangingCoins.o   
+Finished building target: Chap03_ArrangingCoins
+ 
+17:18:34 **** Build of configuration Debug for project Chap04_Judge1076A ****
+make all 
+Building target: Chap04_Judge1076A
+Invoking: MacOS X C++ Linker
+g++  -o "Chap04_Judge1076A"  ./src/Chap04_Judge1076A.o   
+Finished building target: Chap04_Judge1076A
+ 
+17:18:34 **** Build of configuration Debug for project Chap04_Judge1076B ****
+make all 
+Building target: Chap04_Judge1076B
+Invoking: MacOS X C++ Linker
+g++  -o "Chap04_Judge1076B"  ./src/Chap04_Judge1076B.o   
+Finished building target: Chap04_Judge1076B
+ 
+17:18:35 **** Build of configuration Debug for project Chap04_Judge1076C ****
+make all 
+Building target: Chap04_Judge1076C
+Invoking: MacOS X C++ Linker
+g++  -o "Chap04_Judge1076C"  ./src/Chap04_Judge1076C.o   
+Finished building target: Chap04_Judge1076C
+ 
+17:18:35 **** Build of configuration Debug for project Chap05_Judge1078A ****
+make all 
+Building target: Chap05_Judge1078A
+Invoking: MacOS X C++ Linker
+g++  -o "Chap05_Judge1078A"  ./src/Chap05_Judge1078A.o   
+Finished building target: Chap05_Judge1078A
+ 
+17:18:36 **** Build of configuration Debug for project Chap05_Judge1078B ****
+make all 
+Building file: ../src/Chap_Judge1078B.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap_Judge1078B.d" -MT"src/Chap_Judge1078B.o" -o "src/Chap_Judge1078B.o" "../src/Chap_Judge1078B.cpp"
+Finished building: ../src/Chap_Judge1078B.cpp
+ 
+Building target: Chap05_Judge1078B
+Invoking: MacOS X C++ Linker
+g++  -o "Chap05_Judge1078B"  ./src/Chap_Judge1078B.o   
+Finished building target: Chap05_Judge1078B
+ 
+17:18:37 **** Build of configuration Debug for project Chap06_Judge1079A ****
+make all 
+Building target: Chap06_Judge1079A
+Invoking: MacOS X C++ Linker
+g++  -o "Chap06_Judge1079A"  ./src/Chap06_Judge1079A.o   
+Finished building target: Chap06_Judge1079A
+ 
+17:18:37 **** Build of configuration Debug for project Chap06_Judge1079B ****
+make all 
+Building target: Chap06_Judge1079B
+Invoking: MacOS X C++ Linker
+g++  -o "Chap06_Judge1079B"  ./src/Chap06_Judge1079B.o   
+Finished building target: Chap06_Judge1079B
+ 
+17:18:38 **** Build of configuration Debug for project Chap07_MonthlyWalkLog ****
+make all 
+Building target: Chap07_MonthlyWalkLog
+Invoking: MacOS X C++ Linker
+g++  -o "Chap07_MonthlyWalkLog"  ./src/Chap07_MonthlyWalkLog.o ./src/MonthlyWalkLog.o   
+Finished building target: Chap07_MonthlyWalkLog
+ 
+17:18:38 **** Build of configuration Debug for project Chap08_Wallet ****
+make all 
+Building file: ../src/Chap08_Wallet.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap08_Wallet.d" -MT"src/Chap08_Wallet.o" -o "src/Chap08_Wallet.o" "../src/Chap08_Wallet.cpp"
+Finished building: ../src/Chap08_Wallet.cpp
+ 
+Building file: ../src/Wallet.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Wallet.d" -MT"src/Wallet.o" -o "src/Wallet.o" "../src/Wallet.cpp"
+Finished building: ../src/Wallet.cpp
+ 
+Building target: Chap08_Wallet
+Invoking: MacOS X C++ Linker
+g++  -o "Chap08_Wallet"  ./src/Chap08_Wallet.o ./src/Wallet.o   
+Finished building target: Chap08_Wallet
+ 
+17:18:40 **** Build of configuration Debug for project Chap09_MineSweeper ****
+make all 
+Building target: Chap09_MineSweeper
+Invoking: MacOS X C++ Linker
+g++  -o "Chap09_MineSweeper"  ./src/Chap09_MineSweeper.o   
+Finished building target: Chap09_MineSweeper
+ 
+17:18:41 **** Build of configuration Debug for project Chap10_Fraction ****
+make all 
+Building target: Chap10_Fraction
+Invoking: MacOS X C++ Linker
+g++  -o "Chap10_Fraction"  ./src/Chap10_Fraction.o ./src/Fraction.o   
+Finished building target: Chap10_Fraction
+ 
+17:18:41 **** Build of configuration Debug for project Chap11_BIG5 ****
+make all 
+Building file: ../src/Chap11_BIG5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap11_BIG5.d" -MT"src/Chap11_BIG5.o" -o "src/Chap11_BIG5.o" "../src/Chap11_BIG5.cpp"
+Finished building: ../src/Chap11_BIG5.cpp
+ 
+Building target: Chap11_BIG5
+Invoking: MacOS X C++ Linker
+g++  -o "Chap11_BIG5"  ./src/Chap11_BIG5.o   
+Finished building target: Chap11_BIG5
+ 
+17:18:43 **** Build of configuration Debug for project Practice01_LeetCode8 ****
+make all 
+Building target: Practice01_LeetCode8
+Invoking: MacOS X C++ Linker
+g++  -o "Practice01_LeetCode8"  ./src/Practice01_LeetCode8.o   
+Finished building target: Practice01_LeetCode8
+ 
+17:18:43 **** Build of configuration Debug for project Practice02_Judge1098 ****
+make all 
+Building target: Practice02_Judge1098
+Invoking: MacOS X C++ Linker
+g++  -o "Practice02_Judge1098"  ./src/Practice02_Judge1098.o   
+Finished building target: Practice02_Judge1098
+ 
+17:18:44 **** Build of configuration Debug for project Practice03_BankAccount ****
+make all 
+Building file: ../src/Practice03_BankAccount.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice03_BankAccount.d" -MT"src/Practice03_BankAccount.o" -o "src/Practice03_BankAccount.o" "../src/Practice03_BankAccount.cpp"
+Finished building: ../src/Practice03_BankAccount.cpp
+ 
+Building target: Practice03_BankAccount
+Invoking: MacOS X C++ Linker
+g++  -o "Practice03_BankAccount"  ./src/BankAccount.o ./src/Practice03_BankAccount.o   
+Finished building target: Practice03_BankAccount
+ 
+17:18:45 **** Build of configuration Debug for project Practice04_OperatorOverloading ****
+make all 
+Building file: ../src/Practice04_OperatorOverloading.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice04_OperatorOverloading.d" -MT"src/Practice04_OperatorOverloading.o" -o "src/Practice04_OperatorOverloading.o" "../src/Practice04_OperatorOverloading.cpp"
+Finished building: ../src/Practice04_OperatorOverloading.cpp
+ 
+Building target: Practice04_OperatorOverloading
+Invoking: MacOS X C++ Linker
+g++  -o "Practice04_OperatorOverloading"  ./src/Practice04_OperatorOverloading.o   
+Finished building target: Practice04_OperatorOverloading
+ 
+17:18:46 **** Build of configuration Debug for project Practice05_KString ****
+make all 
+Building file: ../src/Practice05_KString.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice05_KString.d" -MT"src/Practice05_KString.o" -o "src/Practice05_KString.o" "../src/Practice05_KString.cpp"
+In file included from ../src/Practice05_KString.cpp:10:
+../src/KString.h:33:3: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                delete sbuf;
+                ^
+                      []
+../src/KString.h:26:48: note: allocated with 'new[]' here
+        KString(const char* s): size{strlen(s)}, sbuf{new char[size+1]}{
+                                                      ^
+../src/KString.h:29:56: note: allocated with 'new[]' here
+        KString(const KString& other): size{other.size}, sbuf{new char[size+1]}{
+                                                              ^
+Finished building: ../src/Practice05_KString.cpp
+../src/KString.h:37:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        delete sbuf;
+                        ^
+                              []
+../src/KString.h:26:48: note: allocated with 'new[]' here
+        KString(const char* s): size{strlen(s)}, sbuf{new char[size+1]}{
+                                                      ^
+../src/KString.h:29:56: note: allocated with 'new[]' here
+        KString(const KString& other): size{other.size}, sbuf{new char[size+1]}{
+                                                              ^
+ 
+2 warnings generated.
+Building target: Practice05_KString
+Invoking: MacOS X C++ Linker
+g++  -o "Practice05_KString"  ./src/Practice05_KString.o   
+Finished building target: Practice05_KString
+ 
+17:18:47 **** Build of configuration Debug for project test ****
+make all 
+Building target: test
+Invoking: MacOS X C++ Linker
+g++  -o "test"  ./src/test.o   
+Finished building target: test
+ 
+17:18:48 **** Incremental Build of configuration Debug for project Chap01_Palindrome ****
+make all 
+make: Nothing to be done for `all'.
+17:52:03 **** Build of configuration Debug for project Chap11_BIG5 ****
+make all 
+make: Nothing to be done for `all'.
+17:52:09 **** Incremental Build of configuration Debug for project Chap11_BIG5 ****
+make all 
+make: Nothing to be done for `all'.
+17:52:22 **** Build of configuration Debug for project Chap08_Wallet ****
+make all 
+make: Nothing to be done for `all'.

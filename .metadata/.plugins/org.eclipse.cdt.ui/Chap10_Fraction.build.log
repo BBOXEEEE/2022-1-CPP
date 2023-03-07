@@ -1,0 +1,10 @@
+17:18:41 **** Build of configuration Debug for project Chap10_Fraction ****
+make all 
+Building target: Chap10_Fraction
+Invoking: MacOS X C++ Linker
+g++  -o "Chap10_Fraction"  ./src/Chap10_Fraction.o ./src/Fraction.o   
+Finished building target: Chap10_Fraction
+ 
+
+17:18:41 Build Finished. 0 errors, 0 warnings. (took 359ms)
+

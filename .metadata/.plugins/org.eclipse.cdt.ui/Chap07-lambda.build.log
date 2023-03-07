@@ -1,0 +1,15 @@
+13:58:26 **** Build of configuration Debug for project Chap07-lambda ****
+make all 
+Building file: ../src/Chap07-lambda.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap07-lambda.d" -MT"src/Chap07-lambda.o" -o "src/Chap07-lambda.o" "../src/Chap07-lambda.cpp"
+Finished building: ../src/Chap07-lambda.cpp
+ 
+Building target: Chap07-lambda
+Invoking: MacOS X C++ Linker
+g++  -o "Chap07-lambda"  ./src/Chap07-lambda.o   
+Finished building target: Chap07-lambda
+ 
+
+13:58:28 Build Finished. 0 errors, 0 warnings. (took 1s.196ms)
+

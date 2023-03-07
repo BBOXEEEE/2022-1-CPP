@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;과제/src/과제.cpp&apos; to &apos;01_PalindromeNumber.cpp&apos;" description="Rename resource &apos;과제.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/과제.cpp" name="01_PalindromeNumber.cpp" stamp="1646808510845" updateReferences="true"/>
+</session>

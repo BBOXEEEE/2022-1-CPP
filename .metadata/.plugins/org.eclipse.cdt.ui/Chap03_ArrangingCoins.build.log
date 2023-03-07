@@ -1,0 +1,10 @@
+17:18:33 **** Build of configuration Debug for project Chap03_ArrangingCoins ****
+make all 
+Building target: Chap03_ArrangingCoins
+Invoking: MacOS X C++ Linker
+g++  -o "Chap03_ArrangingCoins"  ./src/03_ArrangingCoins.o   
+Finished building target: Chap03_ArrangingCoins
+ 
+
+17:18:33 Build Finished. 0 errors, 0 warnings. (took 367ms)
+

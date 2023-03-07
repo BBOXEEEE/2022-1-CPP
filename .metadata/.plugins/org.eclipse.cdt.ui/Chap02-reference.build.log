@@ -1,0 +1,15 @@
+13:58:05 **** Build of configuration Debug for project Chap02-reference ****
+make all 
+Building file: ../src/Chap02-reference.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap02-reference.d" -MT"src/Chap02-reference.o" -o "src/Chap02-reference.o" "../src/Chap02-reference.cpp"
+Finished building: ../src/Chap02-reference.cpp
+ 
+Building target: Chap02-reference
+Invoking: MacOS X C++ Linker
+g++  -o "Chap02-reference"  ./src/Chap02-reference.o   
+Finished building target: Chap02-reference
+ 
+
+13:58:06 Build Finished. 0 errors, 0 warnings. (took 1s.17ms)
+

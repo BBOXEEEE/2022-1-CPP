@@ -1,0 +1,15 @@
+17:18:44 **** Build of configuration Debug for project Practice03_BankAccount ****
+make all 
+Building file: ../src/Practice03_BankAccount.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Practice03_BankAccount.d" -MT"src/Practice03_BankAccount.o" -o "src/Practice03_BankAccount.o" "../src/Practice03_BankAccount.cpp"
+Finished building: ../src/Practice03_BankAccount.cpp
+ 
+Building target: Practice03_BankAccount
+Invoking: MacOS X C++ Linker
+g++  -o "Practice03_BankAccount"  ./src/BankAccount.o ./src/Practice03_BankAccount.o   
+Finished building target: Practice03_BankAccount
+ 
+
+17:18:45 Build Finished. 0 errors, 0 warnings. (took 1s.112ms)
+

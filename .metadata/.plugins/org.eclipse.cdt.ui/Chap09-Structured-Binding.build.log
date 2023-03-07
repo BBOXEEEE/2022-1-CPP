@@ -1,0 +1,15 @@
+13:58:45 **** Build of configuration Debug for project Chap09-Structured-Binding ****
+make all 
+Building file: ../src/Chap09-Structured-Binding.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap09-Structured-Binding.d" -MT"src/Chap09-Structured-Binding.o" -o "src/Chap09-Structured-Binding.o" "../src/Chap09-Structured-Binding.cpp"
+Finished building: ../src/Chap09-Structured-Binding.cpp
+ 
+Building target: Chap09-Structured-Binding
+Invoking: MacOS X C++ Linker
+g++  -o "Chap09-Structured-Binding"  ./src/Chap09-Structured-Binding.o   
+Finished building target: Chap09-Structured-Binding
+ 
+
+13:58:46 Build Finished. 0 errors, 0 warnings. (took 1s.18ms)
+

@@ -1,0 +1,10 @@
+17:18:43 **** Build of configuration Debug for project Practice02_Judge1098 ****
+make all 
+Building target: Practice02_Judge1098
+Invoking: MacOS X C++ Linker
+g++  -o "Practice02_Judge1098"  ./src/Practice02_Judge1098.o   
+Finished building target: Practice02_Judge1098
+ 
+
+17:18:44 Build Finished. 0 errors, 0 warnings. (took 360ms)
+

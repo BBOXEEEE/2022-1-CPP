@@ -1,0 +1,10 @@
+17:18:43 **** Build of configuration Debug for project Practice01_LeetCode8 ****
+make all 
+Building target: Practice01_LeetCode8
+Invoking: MacOS X C++ Linker
+g++  -o "Practice01_LeetCode8"  ./src/Practice01_LeetCode8.o   
+Finished building target: Practice01_LeetCode8
+ 
+
+17:18:43 Build Finished. 0 errors, 0 warnings. (took 354ms)
+

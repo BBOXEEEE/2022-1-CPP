@@ -1,0 +1,15 @@
+02:02:09 **** Incremental Build of configuration Debug for project Chapter05_Judge1078B ****
+make all 
+Building file: ../src/Chapter05_Judge1078B.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chapter05_Judge1078B.d" -MT"src/Chapter05_Judge1078B.o" -o "src/Chapter05_Judge1078B.o" "../src/Chapter05_Judge1078B.cpp"
+Finished building: ../src/Chapter05_Judge1078B.cpp
+ 
+Building target: Chapter05_Judge1078B
+Invoking: MacOS X C++ Linker
+g++  -o "Chapter05_Judge1078B"  ./src/Chapter05_Judge1078B.o   
+Finished building target: Chapter05_Judge1078B
+ 
+
+02:02:10 Build Finished. 0 errors, 0 warnings. (took 1s.175ms)
+

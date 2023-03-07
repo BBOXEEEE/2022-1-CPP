@@ -1,0 +1,15 @@
+13:58:40 **** Build of configuration Debug for project Chap09-BankAccount02 ****
+make all 
+Building file: ../src/Chap09-BankAccount.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap09-BankAccount.d" -MT"src/Chap09-BankAccount.o" -o "src/Chap09-BankAccount.o" "../src/Chap09-BankAccount.cpp"
+Finished building: ../src/Chap09-BankAccount.cpp
+ 
+Building target: Chap09-BankAccount02
+Invoking: MacOS X C++ Linker
+g++  -o "Chap09-BankAccount02"  ./src/Chap09-BankAccount.o   
+Finished building target: Chap09-BankAccount02
+ 
+
+13:58:41 Build Finished. 0 errors, 0 warnings. (took 974ms)
+

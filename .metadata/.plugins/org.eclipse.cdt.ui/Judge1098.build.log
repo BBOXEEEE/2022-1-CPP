@@ -1,0 +1,15 @@
+12:39:38 **** Incremental Build of configuration Debug for project Judge1098 ****
+make all 
+Building file: ../src/Judge1098.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Judge1098.d" -MT"src/Judge1098.o" -o "src/Judge1098.o" "../src/Judge1098.cpp"
+Finished building: ../src/Judge1098.cpp
+ 
+Building target: Judge1098
+Invoking: MacOS X C++ Linker
+g++  -o "Judge1098"  ./src/Judge1098.o   
+Finished building target: Judge1098
+ 
+
+12:39:39 Build Finished. 0 errors, 0 warnings. (took 1s.265ms)
+

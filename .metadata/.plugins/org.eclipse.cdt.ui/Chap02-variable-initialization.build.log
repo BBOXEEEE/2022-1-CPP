@@ -1,0 +1,19 @@
+13:58:06 **** Build of configuration Debug for project Chap02-variable-initialization ****
+make all 
+Building file: ../src/Chap02-Variable-Initialization.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap02-Variable-Initialization.d" -MT"src/Chap02-Variable-Initialization.o" -o "src/Chap02-Variable-Initialization.o" "../src/Chap02-Variable-Initialization.cpp"
+../src/Chap02-Variable-Initialization.cpp:14:11: warning: implicit conversion from 'double' to 'int' changes value from 2.5 to 2 [-Wliteral-conversion]
+        int n2 = 2.5;   // warning
+            ~~   ^~~
+1 warning generated.
+Finished building: ../src/Chap02-Variable-Initialization.cpp
+ 
+Building target: Chap02-variable-initialization
+Invoking: MacOS X C++ Linker
+g++  -o "Chap02-variable-initialization"  ./src/Chap02-Variable-Initialization.o   
+Finished building target: Chap02-variable-initialization
+ 
+
+13:58:07 Build Finished. 0 errors, 1 warnings. (took 1s.23ms)
+

@@ -1,0 +1,15 @@
+13:58:00 **** Build of configuration Debug for project Chap01-simple-IO ****
+make all 
+Building file: ../src/Chap01-SimpleIO.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap01-SimpleIO.d" -MT"src/Chap01-SimpleIO.o" -o "src/Chap01-SimpleIO.o" "../src/Chap01-SimpleIO.cpp"
+Finished building: ../src/Chap01-SimpleIO.cpp
+ 
+Building target: Chap01-simple-IO
+Invoking: MacOS X C++ Linker
+g++  -o "Chap01-simple-IO"  ./src/Chap01-SimpleIO.o   
+Finished building target: Chap01-simple-IO
+ 
+
+13:58:01 Build Finished. 0 errors, 0 warnings. (took 1s.35ms)
+

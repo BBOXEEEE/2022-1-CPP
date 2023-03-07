@@ -1,0 +1,10 @@
+17:18:33 **** Build of configuration Debug for project Chap02_IntegerReplacement ****
+make all 
+Building target: Chap02_IntegerReplacement
+Invoking: MacOS X C++ Linker
+g++  -o "Chap02_IntegerReplacement"  ./src/02_IntegerReplacement.o   
+Finished building target: Chap02_IntegerReplacement
+ 
+
+17:18:33 Build Finished. 0 errors, 0 warnings. (took 387ms)
+

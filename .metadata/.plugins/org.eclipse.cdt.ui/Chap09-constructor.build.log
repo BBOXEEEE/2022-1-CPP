@@ -1,0 +1,15 @@
+13:58:47 **** Build of configuration Debug for project Chap09-constructor ****
+make all 
+Building file: ../src/Chap09-constructor.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap09-constructor.d" -MT"src/Chap09-constructor.o" -o "src/Chap09-constructor.o" "../src/Chap09-constructor.cpp"
+Finished building: ../src/Chap09-constructor.cpp
+ 
+Building target: Chap09-constructor
+Invoking: MacOS X C++ Linker
+g++  -o "Chap09-constructor"  ./src/Chap09-constructor.o   
+Finished building target: Chap09-constructor
+ 
+
+13:58:48 Build Finished. 0 errors, 0 warnings. (took 1s.19ms)
+

@@ -1,0 +1,10 @@
+17:18:40 **** Build of configuration Debug for project Chap09_MineSweeper ****
+make all 
+Building target: Chap09_MineSweeper
+Invoking: MacOS X C++ Linker
+g++  -o "Chap09_MineSweeper"  ./src/Chap09_MineSweeper.o   
+Finished building target: Chap09_MineSweeper
+ 
+
+17:18:41 Build Finished. 0 errors, 0 warnings. (took 369ms)
+

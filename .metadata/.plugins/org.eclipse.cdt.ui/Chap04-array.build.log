@@ -1,0 +1,15 @@
+13:58:13 **** Build of configuration Debug for project Chap04-array ****
+make all 
+Building file: ../src/Chap04-array.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap04-array.d" -MT"src/Chap04-array.o" -o "src/Chap04-array.o" "../src/Chap04-array.cpp"
+Finished building: ../src/Chap04-array.cpp
+ 
+Building target: Chap04-array
+Invoking: MacOS X C++ Linker
+g++  -o "Chap04-array"  ./src/Chap04-array.o   
+Finished building target: Chap04-array
+ 
+
+13:58:14 Build Finished. 0 errors, 0 warnings. (took 1s.28ms)
+

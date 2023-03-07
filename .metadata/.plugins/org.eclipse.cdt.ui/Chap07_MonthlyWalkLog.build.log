@@ -1,0 +1,10 @@
+17:18:38 **** Build of configuration Debug for project Chap07_MonthlyWalkLog ****
+make all 
+Building target: Chap07_MonthlyWalkLog
+Invoking: MacOS X C++ Linker
+g++  -o "Chap07_MonthlyWalkLog"  ./src/Chap07_MonthlyWalkLog.o ./src/MonthlyWalkLog.o   
+Finished building target: Chap07_MonthlyWalkLog
+ 
+
+17:18:38 Build Finished. 0 errors, 0 warnings. (took 310ms)
+

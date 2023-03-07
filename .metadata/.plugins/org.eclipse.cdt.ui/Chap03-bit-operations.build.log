@@ -1,0 +1,15 @@
+13:58:08 **** Build of configuration Debug for project Chap03-bit-operations ****
+make all 
+Building file: ../src/Chap03-bit-operations.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap03-bit-operations.d" -MT"src/Chap03-bit-operations.o" -o "src/Chap03-bit-operations.o" "../src/Chap03-bit-operations.cpp"
+Finished building: ../src/Chap03-bit-operations.cpp
+ 
+Building target: Chap03-bit-operations
+Invoking: MacOS X C++ Linker
+g++  -o "Chap03-bit-operations"  ./src/Chap03-bit-operations.o   
+Finished building target: Chap03-bit-operations
+ 
+
+13:58:09 Build Finished. 0 errors, 0 warnings. (took 1s.25ms)
+

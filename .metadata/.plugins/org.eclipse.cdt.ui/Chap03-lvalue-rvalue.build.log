@@ -1,0 +1,19 @@
+13:58:10 **** Build of configuration Debug for project Chap03-lvalue-rvalue ****
+make all 
+Building file: ../src/Chap03-lvalue-rvalue.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap03-lvalue-rvalue.d" -MT"src/Chap03-lvalue-rvalue.o" -o "src/Chap03-lvalue-rvalue.o" "../src/Chap03-lvalue-rvalue.cpp"
+../src/Chap03-lvalue-rvalue.cpp:35:13: warning: variable 'q' set but not used [-Wunused-but-set-variable]
+        const int *q{nullptr}; // 상수 지시 포인터 (pointer to constant)
+                   ^
+1 warning generated.
+Finished building: ../src/Chap03-lvalue-rvalue.cpp
+ 
+Building target: Chap03-lvalue-rvalue
+Invoking: MacOS X C++ Linker
+g++  -o "Chap03-lvalue-rvalue"  ./src/Chap03-lvalue-rvalue.o   
+Finished building target: Chap03-lvalue-rvalue
+ 
+
+13:58:10 Build Finished. 0 errors, 1 warnings. (took 980ms)
+

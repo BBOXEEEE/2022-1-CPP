@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;과제/02_IntegerReplacement/02_IntegerReplacement&apos; to &apos;02_IntegerReplacement.cpp&apos;" description="Rename resource &apos;02_IntegerReplacement&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="02_IntegerReplacement/02_IntegerReplacement" name="02_IntegerReplacement.cpp" stamp="1647228189544" updateReferences="true"/>
+</session>

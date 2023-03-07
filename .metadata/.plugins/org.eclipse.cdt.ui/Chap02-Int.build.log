@@ -1,0 +1,15 @@
+13:58:02 **** Build of configuration Debug for project Chap02-Int ****
+make all 
+Building file: ../src/Chap02-Int.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap02-Int.d" -MT"src/Chap02-Int.o" -o "src/Chap02-Int.o" "../src/Chap02-Int.cpp"
+Finished building: ../src/Chap02-Int.cpp
+ 
+Building target: Chap02-Int
+Invoking: MacOS X C++ Linker
+g++  -o "Chap02-Int"  ./src/Chap02-Int.o   
+Finished building target: Chap02-Int
+ 
+
+13:58:03 Build Finished. 0 errors, 0 warnings. (took 1s.22ms)
+

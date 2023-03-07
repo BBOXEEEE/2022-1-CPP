@@ -1,0 +1,15 @@
+13:58:03 **** Build of configuration Debug for project Chap02-auto-decltype ****
+make all 
+Building file: ../src/Chap02-auto-decltype.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap02-auto-decltype.d" -MT"src/Chap02-auto-decltype.o" -o "src/Chap02-auto-decltype.o" "../src/Chap02-auto-decltype.cpp"
+Finished building: ../src/Chap02-auto-decltype.cpp
+ 
+Building target: Chap02-auto-decltype
+Invoking: MacOS X C++ Linker
+g++  -o "Chap02-auto-decltype"  ./src/Chap02-auto-decltype.o   
+Finished building target: Chap02-auto-decltype
+ 
+
+13:58:04 Build Finished. 0 errors, 0 warnings. (took 1s.33ms)
+

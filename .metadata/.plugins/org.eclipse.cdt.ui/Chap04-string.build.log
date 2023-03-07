@@ -1,0 +1,15 @@
+13:58:16 **** Build of configuration Debug for project Chap04-string ****
+make all 
+Building file: ../src/Chap04-string.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap04-string.d" -MT"src/Chap04-string.o" -o "src/Chap04-string.o" "../src/Chap04-string.cpp"
+Finished building: ../src/Chap04-string.cpp
+ 
+Building target: Chap04-string
+Invoking: MacOS X C++ Linker
+g++  -o "Chap04-string"  ./src/Chap04-string.o   
+Finished building target: Chap04-string
+ 
+
+13:58:17 Build Finished. 0 errors, 0 warnings. (took 1s.76ms)
+

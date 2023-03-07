@@ -1,0 +1,15 @@
+17:18:36 **** Build of configuration Debug for project Chap05_Judge1078B ****
+make all 
+Building file: ../src/Chap_Judge1078B.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++17 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Chap_Judge1078B.d" -MT"src/Chap_Judge1078B.o" -o "src/Chap_Judge1078B.o" "../src/Chap_Judge1078B.cpp"
+Finished building: ../src/Chap_Judge1078B.cpp
+ 
+Building target: Chap05_Judge1078B
+Invoking: MacOS X C++ Linker
+g++  -o "Chap05_Judge1078B"  ./src/Chap_Judge1078B.o   
+Finished building target: Chap05_Judge1078B
+ 
+
+17:18:37 Build Finished. 0 errors, 0 warnings. (took 1s.305ms)
+

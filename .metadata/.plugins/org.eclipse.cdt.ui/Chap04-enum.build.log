@@ -1,0 +1,15 @@
+13:58:15 **** Build of configuration Debug for project Chap04-enum ****
+make all 
+Building file: ../src/Chap04-enum.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++17 -MMD -MP -MF"src/Chap04-enum.d" -MT"src/Chap04-enum.o" -o "src/Chap04-enum.o" "../src/Chap04-enum.cpp"
+Finished building: ../src/Chap04-enum.cpp
+ 
+Building target: Chap04-enum
+Invoking: MacOS X C++ Linker
+g++  -o "Chap04-enum"  ./src/Chap04-enum.o   
+Finished building target: Chap04-enum
+ 
+
+13:58:16 Build Finished. 0 errors, 0 warnings. (took 1s.19ms)
+
